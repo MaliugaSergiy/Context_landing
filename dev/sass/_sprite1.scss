@@ -1,0 +1,160 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+
+.icon-MacBook_Air {
+    background-image: url(../img/sprite1.png);
+    background-position: -833px 0px;
+    width: 739px;
+    height: 418px;
+    display: block;
+}
+
+.icon-MacBook {
+    background-image: url(../img/sprite1.png);
+    background-position: 0px 0px;
+    width: 833px;
+    height: 420px;
+    display: block;
+}
+
+.icon-andex-d {
+    background-image: url(../img/sprite1.png);
+    background-position: -752px -756px;
+    width: 504px;
+    height: 91px;
+    display: block;
+}
+
+.icon-andex-m {
+    background-image: url(../img/sprite1.png);
+    background-position: -1572px -650px;
+    width: 150px;
+    height: 100px;
+    display: block;
+}
+
+.icon-funnel {
+    background-image: url(../img/sprite1.png);
+    background-position: 0px -756px;
+    background-repeat: no-repeat;
+    width: 376px;
+    display: block;
+    height: 419px;
+}
+
+.icon-funnel_1 {
+    background-image: url(../img/sprite1.png);
+    background-position: -376px -756px;
+    width: 376px;
+    height: 419px;
+    display: block;
+    background-repeat: no-repeat;
+}
+
+.icon-google-ad {
+    background-image: url(../img/sprite1.png);
+    background-position: -1572px -561px;
+    width: 268px;
+    height: 89px;
+    display: block;
+}
+
+.icon-google-an {
+    background-image: url(../img/sprite1.png);
+    background-position: -1572px -467px;
+    width: 271px;
+    height: 94px;
+    display: block;
+}
+
+.icon-iPad_air {
+    background-image: url(../img/sprite1.png);
+    background-position: -1572px 0px;
+    background-repeat: no-repeat;
+    width: 336px;
+    height: 467px;
+    display: block;
+    display: block;
+}
+
+.icon-Arrows {
+    background-image: url(../img/sprite1.png);
+    background-position: -1843px -524px;
+    width: 25px;
+    height: 31px;
+    display: block;
+    position: absolute;
+}
+
+.icon-Cantrol {
+    background-image: url(../img/sprite1.png);
+    background-position: -1722px -650px;
+    width: 100px;
+    height: 100px;
+    display: block;
+    
+}
+
+.icon-Clients {
+    background-image: url(../img/sprite1.png);
+    background-position: -1572px -750px;
+    width: 100px;
+    display: block;
+    height: 100px;
+}
+
+.icon-Traffic {
+    background-image: url(../img/sprite1.png);
+    background-position: -1772px -750px;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+.icon-statistics {
+    background-image: url(../img/sprite1.png);
+    background-position: -1672px -750px;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+.icon-img {
+    background-image: url(../img/sprite1.png);
+    background-position: 0px -420px;
+    width: 523px;
+    height: 336px;
+    display: block;
+}
+
+.icon-img_2 {
+    background-image: url(../img/sprite1.png);
+    background-position: -523px -420px;
+    width: 553px;
+    height: 303px;
+    display: block;
+}
+
+.icon-logo_vt {
+    background-image: url(../img/sprite1.png);
+    background-position: -1843px -467px;
+    width: 64px;
+    height: 57px;
+    display: block;
+}
